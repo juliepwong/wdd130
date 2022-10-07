@@ -31,40 +31,44 @@ main section {
 }
 
 body{
-    background-color: ; 
+    background-color: #376CA9; 
 }
 
 header{
-    background-color: ; 
+    background-color: #376CA9; 
 }
 nav a:hover{
-    background-color: ; 
+    background-color: #FF5F5C; 
 }
 
 .book{
-    background-color: ; 
+    background-color: #376CA9; 
 }
 
 .join{
-    background-color: ; 
+    background-color: #376CA9; 
 }
 
 .book:hover{
-    background-color: ; 
+    background-color: #FF5F5C; 
 }
 
 .join:hover{
-    background-color: ; 
+    background-color: #FF5F5C; 
 }
 
 #background{
-    background-color: ; 
+    background-color: #376CA9; 
 }
 
 .msg{
-    background-color: ; 
+    background-color: #FF5F5C; 
 }
 
 footer{
-    background-color: ; 
+    background-color: #376CA9; 
+}
+
+.icon {
+    width: 80px;
 }
