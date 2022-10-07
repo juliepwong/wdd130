@@ -32,41 +32,51 @@ main section {
 
 body{
     background-color: #376CA9; 
+    color: #FF8484;
 }
 
 header{
-    background-color: #376CA9; 
+    background-color: #376CA9;
+    color: #FF8484; 
 }
 nav a:hover{
     background-color: #05B3A7; 
+    color: #FF8484;
 }
 
 .book{
-    background-color: #376CA9; 
+    background-color: #376CA9;
+    color: #FF8484; 
 }
 
 .join{
     background-color: #376CA9; 
+    color: #FF8484; 
 }
 
 .book:hover{
     background-color: #05B3A7; 
+    color: #FF8484; 
 }
 
 .join:hover{
     background-color: #05B3A7; 
+    color: #FF8484; 
 }
 
 #background{
     background-color: #376CA9; 
+    color: #FF8484; 
 }
 
 .msg{
     background-color: #376CA9; 
+    color: #FF8484; 
 }
 
 footer{
-    background-color: #376CA9; 
+    background-color: #376CA9;
+    color: #FF8484;  
 }
 
 .icon {
