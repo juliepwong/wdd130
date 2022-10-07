@@ -25,3 +25,46 @@ nav a {
 main section {
     text-align: center;
 }
+
+#background {
+    height: 725px;
+}
+
+body{
+    background-color: ; 
+}
+
+header{
+    background-color: ; 
+}
+nav a:hover{
+    background-color: ; 
+}
+
+.book{
+    background-color: ; 
+}
+
+.join{
+    background-color: ; 
+}
+
+.book:hover{
+    background-color: ; 
+}
+
+.join:hover{
+    background-color: ; 
+}
+
+#background{
+    background-color: ; 
+}
+
+.msg{
+    background-color: ; 
+}
+
+footer{
+    background-color: ; 
+}
