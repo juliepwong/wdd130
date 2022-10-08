@@ -30,6 +30,8 @@ main section {
 
 #background {
     height: 725px;
+    background-color: #376CA9; 
+    color: #FF8484; 
 }
 
 body{
@@ -71,14 +73,19 @@ nav a:hover{
     color: #FF8484; 
 }
 
-#background{
+.msg{
     background-color: #376CA9; 
     color: #FF8484; 
 }
 
-.msg{
+.msg h2 {
     background-color: #376CA9; 
-    color: #FF8484; 
+    color: #FF8484;
+}
+
+.msg p {
+    background-color: #376CA9; 
+    color: #FF8484;
 }
 
 footer{
