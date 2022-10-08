@@ -79,15 +79,17 @@ nav a:hover{
 }
 
 .msg h2 {
+    background-color: #05B3A7; 
     color: #FF8484;
 }
 
 .msg p {
+    background-color: #05B3A7; 
     color: #FF8484;
 }
 
 footer{
-    background-color: #376CA9;
+    background-color: #05B3A7;
     color: #FF8484;  
 }
 
