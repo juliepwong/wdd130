@@ -79,12 +79,10 @@ nav a:hover{
 }
 
 .msg h2 {
-    background-color: #376CA9; 
     color: #FF8484;
 }
 
 .msg p {
-    background-color: #376CA9; 
     color: #FF8484;
 }
 
@@ -94,12 +92,10 @@ footer{
 }
 
 footer a {
-    background-color: #376CA9;
     color: #FF8484; 
 }
 
 footer a:hover {
-    background-color: #376CA9;
     color: #FF8484; 
     text-decoration: none;
 }
