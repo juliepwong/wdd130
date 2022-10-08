@@ -58,8 +58,8 @@ nav a:hover{
 
 .join{
     text-align: center;
-    background-color: #05B3A7; 
-    color: #FF8484; 
+    background-color: #376CA9; 
+    color: black; 
     text-decoration: none;
 }
 
@@ -70,7 +70,7 @@ nav a:hover{
 
 .join:hover{
     background-color: #05B3A7; 
-    color: #FF8484; 
+    color: white; 
 }
 
 .msg{
