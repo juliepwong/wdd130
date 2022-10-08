@@ -59,7 +59,7 @@ nav a:hover{
 .join{
     text-align: center;
     background-color: #376CA9; 
-    color: black; 
+    color: #FF8484; 
     text-decoration: none;
 }
 
@@ -94,7 +94,7 @@ footer{
 }
 
 footer a {
-    color: #FF8484; 
+    color: black; 
 }
 
 footer a:hover {
