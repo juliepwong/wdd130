@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
 div {
     max-width: 1600px;
 }
@@ -10,6 +13,7 @@ nav a {
     text-align: center;
     color: #FF8484;
     text-decoration: none;
+    padding-top: 5px,
 }
 
 #hero-msg h1 {
@@ -37,30 +41,33 @@ main section {
 body{
     background-color: #376CA9; 
     color: #FF8484;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 
 header{
     background-color: #376CA9;
     color: #FF8484; 
 }
+
 nav a:hover{
     background-color: #05B3A7; 
     color: #FF8484;
     text-decoration: none;
 }
 
-.book{
+.book, .join{
     text-align: center;
     background-color: #376CA9;
     color: #FF8484; 
     text-decoration: none;
-}
-
-.join{
-    text-align: center;
-    background-color: #376CA9; 
-    color: #FF8484; 
-    text-decoration: none;
+    font-family: Paytone One, Lora, sans-serif;
+    font-size: 18px;
+    padding-top: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 .book:hover{
@@ -75,7 +82,9 @@ nav a:hover{
 
 .msg{
     background-color: #376CA9; 
-    color: #FF8484; 
+    color: #FF8484;
+    line-height: 1.5em; 
+    padding: 35 px;
 }
 
 .msg h2 {
@@ -86,11 +95,16 @@ nav a:hover{
 .msg p {
     background-color: #05B3A7; 
     color: black;
+    font-family: Paytone One, Lora, sans-serif;
+    font-size: 0.8em;
+    padding-bottom: 15px;
 }
 
 footer{
     background-color: #05B3A7;
     color: black;  
+    padding: 25px 50 px;
+    margin-top: 200px;
 }
 
 footer a {
@@ -104,6 +118,7 @@ footer a:hover {
 
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 
 footer p {
@@ -113,3 +128,34 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 }    
+
+.home-title {
+    font-family: Paytone One, Lora, sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+h2 {
+    margin: 0;
+}
+
+#logo_link {
+    padding-top: 5px;
+}
+
+footer .social img {
+    padding-top: 15px;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+
+.card-img {
+    border: 10px solid black;
+}
+
+main section img {
+    box-sizing: border-box;
+}
+     
