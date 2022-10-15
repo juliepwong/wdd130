@@ -13,7 +13,7 @@ nav a {
     text-align: center;
     color: #FF8484;
     text-decoration: none;
-    padding-top: 5px,
+    padding-top: 35px,
 }
 
 #hero-msg h1 {
@@ -103,7 +103,7 @@ nav a:hover{
 footer{
     background-color: #05B3A7;
     color: black;  
-    padding: 25px 50 px;
+    padding: 25px 50px;
     margin-top: 200px;
 }
 
