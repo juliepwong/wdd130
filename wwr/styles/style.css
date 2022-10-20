@@ -38,7 +38,7 @@ nav {
 }
 
 nav a {
-    color:#376CA9;
+    color:#05B3A7;
     line-height: 3em;
     padding: 1em 1em;
     text-decoration: none;
@@ -83,7 +83,7 @@ nav a:hover{
 header{
     display: grid;
     grid-template-columns: 200ox auto;
-    background-color: #376CA9; 
+    background-color: #05B3A7; 
 }
 
 img {
@@ -111,7 +111,7 @@ main, section{
 
 #background {
     height: 750px;
-    background-color: #05B3A7; 
+    background-color: #376CA9; 
 }
 
 .mountains {
@@ -135,7 +135,7 @@ main, section{
 }
 
 footer{
-    background-color: #05B3A7;
+    background-color: #376CA9;
     margin-top: 0;
     display: flex;
     justify-content: space-around;
