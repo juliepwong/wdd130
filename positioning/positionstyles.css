@@ -129,6 +129,7 @@ justify-items: center;
   /* This is the parent of the activity 5 boxes. */
   max-width: 600px;
   height: 400px;
+  font-size: 10px;
 }
 .red5 { 
   width: 100%; 
