@@ -17,7 +17,7 @@ h1, h2, h3, h4,h5, h6 {
     padding: 10px;
     text-align: center;
     color: #05B3A7;
-    font-family: Paytone One; 
+    font-family: 'Paytone One'; 
     font-size: 18px;
     line-height: 3em;
 }
@@ -25,7 +25,7 @@ h1, h2, h3, h4,h5, h6 {
 p {
     padding: 10px;
     color: #05B3A7;
-    font-family: Paytone One; 
+    font-family: 'Paytone One'; 
     font-size: 18px;
     line-height: 3em;
 }
@@ -43,7 +43,7 @@ nav a {
     padding: 1em 1em;
     text-decoration: none;
     text-align: center;
-    font-family: Paytone One;
+    font-family: 'Paytone One';
     font-size: 1.2em;
     padding-top: 35px,
 }
@@ -61,8 +61,8 @@ nav a:hover{
 }
 
 .logo {
-    width: relative;
-    height: relative;
+    width: 200px;
+    height: 150px;
     position: relative;
 }
 
@@ -115,7 +115,7 @@ main, section{
 }
 
 .mountains {
-    width: 100%
+    width: 100%;
 }
 
 .msg{
