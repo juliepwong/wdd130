@@ -118,6 +118,7 @@ main, section{
     width: 30%;
     height: 300px;
     border: 10px solid black;
+    width: 100%
 }
 
 .icon {
@@ -125,9 +126,30 @@ main, section{
     margin-top: 10px;
 }
 
+#home-grid {
+    display: grid;
+    grid-template-columns: 10;
+} 
+
+.rivers-card {
+    margin: 200px 0;
+    width: 100%;
+}
+
+.camping-card {
+    margin: 200px 0;
+    width: 100%;
+}
+
+.rapids-card {
+    margin: 200px 0;
+    width: 100%;
+}
+
 #background {
     height: 750px;
     background-color: #05B3A7; 
+    width: 100%;
 }
 
 .mountains {
@@ -137,6 +159,7 @@ main, section{
 .msg{
     padding: 55px;
     background-color: #376CA9; 
+    width: 100%;
 }
 
 .msg h2 {
@@ -202,9 +225,4 @@ footer .social img {
 .join:hover{
     background-color: #05B3A7; 
     color: white; 
-}
-
-.rivers-card, .camping-card, .rapids-card {
-    margin: 200px 0;
-}
-     
+}    
