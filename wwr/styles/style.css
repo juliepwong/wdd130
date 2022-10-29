@@ -108,7 +108,7 @@ img {
 
 .main, .home-grid {
     display: grid;
-    grid-template-columns: 200px 200px 200px;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
 }
 
 main section img {
