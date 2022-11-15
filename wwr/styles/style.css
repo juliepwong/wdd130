@@ -121,7 +121,7 @@ header{
     margin: 55px;
 }
 
-.home-grid {
+.home-grid, .about-us-grid, .rates-and-dates-grid {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
 }
