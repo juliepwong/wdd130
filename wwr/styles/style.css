@@ -67,7 +67,7 @@ nav a:hover{
     position: relative;
 }
 
-header{
+header {
     display: grid;
     grid-template-columns: 150px auto;
     background-color: #05B3A7; 
@@ -79,24 +79,24 @@ header{
     text-shadow: 3px 3px #000000;
 }
 
-#hero {
+#hero, #prices-dates {
     text-align: center;
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
 }
 
-#hero-box {
+#hero-box, #prices-dates-box {
     grid-column: 1/11;
     grid-row: 1/3;
 }
 
-#hero-img {
+#hero-img, #prices-dates-img {
     width: 100%;
     grid-column: 1/11;
     grid-row: 1/3;
 }
 
-#hero-msg {
+#hero-msg, #prices-dates-msg {
     grid-column: 2/3;
     grid-row: 1/2;
     text-align: center;
