@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
 body{
-    background-color: #376CA9; 
+    background-color: #36CAFA; 
     margin: 0;
     padding: 0;
 }
 
 #content {
-    background-color: #376CA9;
+    background-color: #36CAFA;
     margin: 0 auto;
     max-width: 1600px;
 }
@@ -16,7 +16,7 @@ body{
 h1, h2, h3, h4,h5, h6 {
     padding: 10px;
     text-align: center;
-    color: #05B3A7;
+    color: #7392FA;
     font-family: 'Source Serif Pro', serif; 
     font-size: 1.5em;
     line-height: 1.1em;
@@ -24,7 +24,7 @@ h1, h2, h3, h4,h5, h6 {
 
 p {
     padding: 10px;
-    color: #05B3A7;
+    color: #7392FA;
     line-height: 1.5em;
     font-size: 1.25em;
     font-family: 'Lora', serif; 
@@ -34,7 +34,7 @@ nav {
     display: flex;
     justify-content: space-around;
     padding: 1em;
-    background-color:#376CA9;
+    background-color:#36CAFA;
 }
 
 nav a {
@@ -48,7 +48,7 @@ nav a {
 }
 
 nav a:hover{
-    background-color: #05B3A7; 
+    background-color: #36CAFA; 
     color: #FF8484;
     border-radius: 5px;
     text-decoration: none;
@@ -103,7 +103,7 @@ header {
 }
 
 .join, .book{
-    background-color: #376CA9;
+    background-color: #36CAFA;
     color: #FF8484; 
     text-decoration: none;
     padding: 15px;
@@ -112,7 +112,7 @@ header {
 
 .join:hover, .book:hover{
     color: #FF8484; 
-    background-color: #05B3A7; 
+    background-color: #36CAFA; 
     box-shadow: 4px 4px 4px #000000;
 }
 
@@ -202,7 +202,7 @@ header {
 
 #background {
     height: auto;
-    background-color: #05B3A7; 
+    background-color: #36CAFA; 
     grid-column: 1/11;
     grid-row: 4/9;
 }
@@ -219,7 +219,7 @@ header {
     grid-row: 6/7;
     padding: 55px;
     text-align: center;
-    background-color: #376CA9;
+    background-color: #36CAFA;
 }
 
 .msg h2 {
@@ -238,7 +238,7 @@ header {
 }
 
 footer{
-    background-color: #376CA9;
+    background-color: #36CAFA;
     padding: 25px 50px;
     margin-top: 0;
     display: flex;
