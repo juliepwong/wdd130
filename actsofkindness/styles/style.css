@@ -90,13 +90,13 @@ header {
     grid-row: 1/3;
 }
 
-#be-kind-img, #service-image {
+#serve-img, #be-kind-img, #service-image {
     width: 100%;
     grid-column: 1/11;
     grid-row: 1/3;
 }
 
-#be-kind-msg, #service-msg {
+#serve-msg, #be-kind-msg, #service-msg {
     grid-column: 2/3;
     grid-row: 1/2;
     text-align: center;
