@@ -79,13 +79,13 @@ header {
     text-shadow: 3px 3px #000000;
 }
 
-#hero, #be-kind, #service {
+#serve, #be-kind, #service {
     text-align: center;
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
 }
 
-#hero-box, #be-kind-box, #service-box {
+#serve-box, #be-kind-box, #service-box {
     grid-column: 1/11;
     grid-row: 1/3;
 }
