@@ -73,30 +73,30 @@ header {
     background-color: #05B3A7; 
 }
 
-.home-title, .rates-and-dates-title, .about-us-title {
+.home-title, .be-kind-title, .service-title {
     font-size: 2.25em;
     color: #05B3A7;
     text-shadow: 3px 3px #000000;
 }
 
-#hero, #rates-and-dates, #about-us {
+#hero, #be-kind, #service {
     text-align: center;
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
 }
 
-#hero-box, #rates-and-dates-box, #about-us {
+#hero-box, #be-kind-box, #service-box {
     grid-column: 1/11;
     grid-row: 1/3;
 }
 
-#hero-img, #rates-and-dates-img, #about-us {
+#be-kind-img, #service-image {
     width: 100%;
     grid-column: 1/11;
     grid-row: 1/3;
 }
 
-#hero-msg, #rates-and-dates-msg, #about-us {
+#be-kind-msg, #service-msg {
     grid-column: 2/3;
     grid-row: 1/2;
     text-align: center;
