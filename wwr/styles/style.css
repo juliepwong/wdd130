@@ -18,7 +18,7 @@ h1, h2, h3, h4,h5, h6 {
     text-align: center;
     color: #05B3A7;
     font-family: 'Source Serif Pro', serif; 
-    font-size: 1.5em;
+    font-size: 1.25em;
     line-height: 1.1em;
 }
 
@@ -26,7 +26,7 @@ p {
     padding: 10px;
     color: #05B3A7;
     line-height: 1.5em;
-    font-size: 1em;
+    font-size: 0.75em;
     font-family: 'Lora', serif; 
 }
 
