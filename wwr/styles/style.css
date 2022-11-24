@@ -146,33 +146,18 @@ header {
     margin-top: 25px;
 }
 
-.rivers-card {
+.rivers-card, .g-c-card {
     grid-column: 2/4;
     grid-row: 2/3;
 }
 
-.camping-card {
+.camping-card, .gc-card {
     grid-column: 5/7;
     grid-row: 2/3;
 }
 
-.rapids-card {
+.rapids-card, .salmon-river-card  {
     grid-column: 8/10;
-    grid-row: 2/3;
-}
-
-.g-c-card {
-    grid-column: 3/5;
-    grid-row: 2/3;
-}
-
-.gc-card {
-    grid-column: 6/8;
-    grid-row: 2/3;
-}
-
-.salmon-river-card {
-    grid-column: 9/11;
     grid-row: 2/3;
 }
 
