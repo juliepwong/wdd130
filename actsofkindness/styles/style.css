@@ -48,8 +48,8 @@ nav a {
 }
 
 nav a:hover{
-    background-color: #36CAFA; 
-    color: #FAD97F;
+    background-color: #FAD97F; 
+    color: #7392FA;
     border-radius: 5px;
     text-decoration: none;
     box-shadow: 4px 4px 4px #000000;
