@@ -70,7 +70,7 @@ nav a:hover{
 header {
     display: grid;
     grid-template-columns: 150px auto;
-    background-color: #05B3A7; 
+    background-color: #7392FA; 
     align-items: center;
 }
 
