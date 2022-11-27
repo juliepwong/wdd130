@@ -83,7 +83,7 @@ header {
 #home, #serve, #be-kind {
     text-align: center;
     display: grid;
-    grid-template-columns: 1fr 3fr 1fr;
+    grid-template-columns: 1fr 2fr;
 }
 
 #home-box, #serve-box, #be-kind-box {
