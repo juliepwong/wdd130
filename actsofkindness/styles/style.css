@@ -71,6 +71,7 @@ header {
     display: grid;
     grid-template-columns: 150px auto;
     background-color: #05B3A7; 
+    align-items: center;
 }
 
 .home-title, .be-kind-title, .serve-title {
@@ -84,6 +85,7 @@ header {
     text-align: center;
     display: grid;
     grid-template-columns: 1fr 2fr;
+    align-self: center;
 }
 
 #home-box, #serve-box, #be-kind-box {
