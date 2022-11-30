@@ -141,17 +141,17 @@ header {
 
 #background {
     height: auto;
-    background-color: #36CAFA; 
+    background-color: #FA7550; 
     grid-column: 1/3;
     grid-row: 4/5;
 }
 
 .msg{
-    grid-column: 6/10;
-    grid-row: 6/7;
+    grid-column: 2/3;
+    grid-row: 4/5;
     padding: 55px;
     text-align: center;
-    background-color: #FA7550;
+    background-color: #36CAFA;
 }
 
 .msg h2 {
