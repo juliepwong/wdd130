@@ -104,7 +104,7 @@ header {
     text-align: center;
 }
 
-.home-grid, .be-kind-grid, .serve-grid {
+.home-grid, .serve-grid, .be-kind-grid, {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 25px;
