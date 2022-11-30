@@ -104,7 +104,7 @@ header {
     text-align: center;
 }
 
-.home-grid, .serve-grid, .be-kind-grid, {
+.home-grid, .serve-grid, .be-kind-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 25px;
@@ -115,7 +115,6 @@ header {
     height: 500px;
     box-shadow: 4px 4px 4px #13293D;
     border: 2px #13293D solid;
-    margin-left: auto;
     transition: 'transform' .5s;
     border-radius: 50%;
 }
