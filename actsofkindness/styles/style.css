@@ -124,14 +124,14 @@ header {
     transform: scale(1.1);
 }
 
-.service-projects-card, .printouts-card {
+.be-kind-card, .service-projects-card, .printouts-card {
     grid-column: 1/2;
     grid-row: 1/3;
     margin: 25px auto;
     width: 90%;
 }
 
-.treats-ideas-card, .food-banks-card {
+.service-projects-card, .treats-ideas-card, .food-banks-card {
     grid-column: 2/3;
     grid-row: 1/3;
     margin: 25px auto;
