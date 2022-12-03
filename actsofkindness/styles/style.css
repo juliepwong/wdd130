@@ -251,4 +251,5 @@ footer .social img {
     background-color: #FAD97F;
     color: white;
     transform: rotateY(180deg);
+    text-align: center;
   }
