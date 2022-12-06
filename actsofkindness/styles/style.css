@@ -129,12 +129,12 @@ header {
 }
 
 .service-projects-card, .treats-ideas-card, .food-banks-card {
-    grid-column: 5/7;
+    grid-column: 4/6;
     grid-row: 2/3;
 }
 
 .gift-ideas-card, .donations-card {
-    grid-column: 8/10;
+    grid-column: 6/9;
     grid-row: 2/3;
 }
 
