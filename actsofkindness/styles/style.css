@@ -126,22 +126,16 @@ header {
 .be-kind-card, .service-projects-card, .printouts-card {
     grid-column: 2/4;
     grid-row: 2/3;
-    margin: 25px auto;
-    width: 90%;
 }
 
 .service-projects-card, .treats-ideas-card, .food-banks-card {
     grid-column: 5/7;
     grid-row: 2/3;
-    margin: 25px auto;
-    width: 90%;
 }
 
 .gift-ideas-card, .donations-card {
     grid-column: 8/10;
     grid-row: 2/3;
-    margin: 25px auto;
-    width: 90%;
 }
 
 #background {
