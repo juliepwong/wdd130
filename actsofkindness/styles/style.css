@@ -129,7 +129,7 @@ header {
 }
 
 .serve-card {
-    grid-column: 6/11;
+    grid-column: 6/10;
     grid-row: 2/3;
 }
 
