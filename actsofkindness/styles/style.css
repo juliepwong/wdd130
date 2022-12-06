@@ -124,12 +124,12 @@ header {
 }
 
 .be-kind-card {
-    grid-column: 2/4;
+    grid-column: 1/2;
     grid-row: 2/3;
 }
 
 .serve-card {
-    grid-column: 5/7;
+    grid-column: 2/2;
     grid-row: 2/3;
 }
 
