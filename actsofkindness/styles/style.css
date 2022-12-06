@@ -124,7 +124,7 @@ header {
 }
 
 .be-kind-card {
-    grid-column: 2/4;
+    grid-column: 1/3;
     grid-row: 2/3;
 }
 
