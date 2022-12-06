@@ -176,7 +176,7 @@ header {
 }
 
 .msg{
-    grid-column: 3/7;
+    grid-column: 3/9;
     grid-row: 4/5;
     padding: 55px;
     text-align: center;
