@@ -189,7 +189,7 @@ header {
 }
 
 .msg p {
-    font-size: .50em;
+    font-size: 1em;
     color: black;
 }
 
@@ -277,4 +277,5 @@ footer .social img {
     color: white;
     transform: rotateY(180deg);
     text-align: center;
+    font-size: .75em;
   }
